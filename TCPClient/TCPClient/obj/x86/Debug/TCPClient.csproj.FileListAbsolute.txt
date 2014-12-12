@@ -1,0 +1,18 @@
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.Properties.Resources.resources
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csproj.GenerateResource.Cache
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb
+c:\users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.Client.resources
+C:\Users\guirim\documents\visual studio 2010\Projects\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb
+E:\c# 서버개발\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+E:\c# 서버개발\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.Client.resources
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.Properties.Resources.resources
+E:\c# 서버개발\TCPClient\TCPClient\obj\x86\Debug\TCPClient.csproj.GenerateResource.Cache
+E:\1_BI\1_개발\c# 서버개발\C#_Client\TCPClient\TCPClient\obj\x86\Debug\TCPClient.exe
+E:\1_BI\1_개발\c# 서버개발\C#_Client\TCPClient\TCPClient\obj\x86\Debug\TCPClient.pdb
